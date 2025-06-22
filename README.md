@@ -108,9 +108,7 @@ Scan complete.
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
+## 📄 Word from the Author
 Free to use, modify, and distribute.
 
 ---
